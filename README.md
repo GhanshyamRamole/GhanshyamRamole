@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOURMAIL@example.com)
 
-<img src="https://i.postimg.cc/jqBZ9NLw/image-2.png" alt="DevOps Banner" width="900px"/>
+<img src="" alt="DevOps Banner" width="900px"/>
 
 </div>
 
@@ -127,5 +127,5 @@
 ---
 
 <div align="center">
-  <img src="https://imgur.com/meVJnmd.png" alt="Footer Banner" width="900px"/>
+  <img src="" alt="Footer Banner" width="900px"/>
 </div>
