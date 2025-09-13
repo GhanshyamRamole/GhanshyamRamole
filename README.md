@@ -1,150 +1,120 @@
-# <div align="center"> ** 👋 Hi, I'm Ghanshyam Ramole** </div>
+<!-- Profile Header -->
+<div align="center">
+  
+# 👨‍💻 **Ghanshyam Ramole**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer+%7C+Cloud+%7C+Automation;Kubernetes+%7C+CI%2FCD+%7C+Terraform+%7C+AWS;Passionate+about+Building+Scalable+Systems)](https://git.io/typing-svg)
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-ghanshyam23.netlify.app-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://ghanshyam23.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-ghanshyam23-181717?style=for-the-badge&logo=github)](https://github.com/ghanshyam23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOURMAIL@example.com)
+
+<img src="https://i.postimg.cc/jqBZ9NLw/image-2.png" alt="DevOps Banner" width="900px"/>
+
+</div>
+
+---
+
+## 🚀 About Me  
+
+- 🌩️ **Cloud & DevOps Engineer** – Automating infrastructure, CI/CD, and scaling apps.  
+- 🛠️ **Tech Explorer** – Love experimenting with Kubernetes, Terraform, Docker & Monitoring tools.  
+- 📚 **Content Creator** – Sharing blogs, code, and open-source projects.  
+- 🎯 Motto: *"Automating today for a smarter tomorrow."*  
+
+---
+
+## 🔧 Tech Stack  
+
+<div align="center">
+
+### ☁️ Cloud & Platforms  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### ⚙️ DevOps & CI/CD  
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+
+### 📦 Containers & Orchestration  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
+
+### 📊 Monitoring & Tools  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+</div>
+
+---
+
+## 📂 Featured Projects  
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌟 Popular Projects  
+- [Internal DevOps Platform](https://github.com/ghanshyam23/internal-devops-platform)  
+- [EKS CI/CD Pipeline](https://github.com/ghanshyam23/eks-cicd-pipeline)  
+- [Terraform AWS Modules](https://github.com/ghanshyam23/terraform-aws-modules)  
+- [Distributed Systems Q&A](https://github.com/ghanshyam23/distributed-systems)  
+
+</td>
+<td width="50%">
+
+### 🔧 Tools & Guides  
+- [DevOps Cheatsheet](https://github.com/ghanshyam23/devops-cheatsheet)  
+- [Kubernetes Hands-On](https://github.com/ghanshyam23/kubernetes-labs)  
+- [Monitoring Setup](https://github.com/ghanshyam23/monitoring-stack)  
+- [Automation Scripts](https://github.com/ghanshyam23/automation-scripts)  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics  
 
 <div align="center">
   
-[![DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_Kubernetes_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://ghanshyam23.netlify.app/)
-
-<img src="images" alt="aboutme" width="800px">
-
-</div>
-
-<div align="center">
-  <p><strong>Hey there!</strong> 👋 I'm a passionate DevOps Engineer on a mission to automate everything and scale cloud infrastructures efficiently.</p>
-</div>
-
-<br>
-
-## 💫 About Me
-
-<table>
-<tr>
-<td width="50%">
-
-### What I Do
-- 🌩️ **Cloud & DevOps Specialist**
-  - Architecting scalable infrastructures
-  - AWS, Azure, Kubernetes expert
-- 🤖 **Automation Enthusiast**
-  - CI/CD pipelines
-  - Infrastructure as Code (IaC)
-- 📝 **Content Creator**
-  - Technical blogs
-  - DevOps tutorials
-  - Open-source projects
-
-</td>
-<td width="50%">
-
-### Quick Links
-[![Portfolio](https://img.shields.io/badge/Portfolio-ghanshyam23.netlify.app-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://ghanshyam23.netlify.app)
-[![Resume](https://img.shields.io/badge/Resume-ghanshyam23-resume-007ACC?style=for-the-badge&logo=read-the-docs&logoColor=white)](#)
-[![Blog](https://img.shields.io/badge/Blog-ghanshyam23-blog-FFA500?style=for-the-badge&logo=hashnode&logoColor=white)](#)
-[![Links](https://img.shields.io/badge/All%20Links-ghanshyam23-links-8A2BE2?style=for-the-badge&logo=linktree&logoColor=white)](#)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://i.postimg.cc/jqBZ9NLw/image-2.png" alt="DevOps Banner" width="800px">
-</div>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghanshyam23)
-[![GitHub](https://img.shields.io/badge/GitHub-ghanshyam23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghanshyam23)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghanshyam@example.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghanshyam23&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyam23&layout=compact&theme=tokyonight&hide_border=true)  
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=ghanshyam23&theme=tokyonight&hide_border=true)  
 
 </div>
 
-## 📂 Featured Repositories
+---
 
-<table>
-<tr>
-<td width="50%">
-
-### 🌟 Popular Projects
-- [Internal DevOps Platform](https://github.com/ghanshyam23/internal-devops-platform)
-- [Kubernetes Learning Path](https://github.com/ghanshyam23/kubernetes-learning-path)
-- [DevOps Interview Questions](https://github.com/ghanshyam23/devops-interview-questions)
-- [AWS DevOps Deployments](https://github.com/ghanshyam23/aws-devops-deployment)
-
-</td>
-<td width="50%">
-
-### 🔧 Tools & Guides
-- [CI/CD Pipeline for AWS EKS](https://github.com/ghanshyam23/eks-cicd-pipeline)
-- [DevOps Tool Installer](https://github.com/ghanshyam23/devops-tool-installer)
-- [Azure DevOps Guide](https://github.com/ghanshyam23/azure-devops-guide)
-- [DevOps Cheatsheet](https://github.com/ghanshyam23/devops-cheatsheet)
-
-</td>
-</tr>
-</table>
-
-## 📝 Latest Blog Posts
-
-<table>
-<tr>
-<td width="50%">
-
-### 📌 Dev.to Articles
-[![✍️ Scripting in DevOps](https://img.shields.io/badge/Scripting_in_DevOps-4CAF50?style=for-the-badge&logo=dev.to&logoColor=white)](#)
-[![✍️ Linux Filesystem Guide](https://img.shields.io/badge/Linux_Filesystem_Guide-FFA500?style=for-the-badge&logo=linux&logoColor=white)](#)
-
-</td>
-<td width="50%">
-
-
-## ⚡ Tech Stack
+## 📝 Blogs & Writing  
 
 <div align="center">
 
-### Cloud & Platforms
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### DevOps & CI/CD
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-%232C5263.svg?style=for-the-badge&logo=helm&logoColor=white)
-
-### Infrastructure & Monitoring
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+[![DevOps Blogs](https://img.shields.io/badge/DevOps_Blogs-Read-00C2FF?style=for-the-badge&logo=hashnode)](https://ghanshyam23.netlify.app/blog)  
+[![Medium](https://img.shields.io/badge/Medium-Articles-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR-HANDLE)
 
 </div>
 
-## 📊 GitHub Stats
+---
+
+## ☕ Support My Work  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghanshyam23&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyam23&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
-</div>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-ghanshyam23-181717?style=for-the-badge&logo=github)](https://github.com/ghanshyam23)
-[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-ghanshyam23-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](#)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ghanshyam23-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](#)
+  
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/YOUR-HANDLE)  
+[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-Donate-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/YOUR-HANDLE)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://imgur.com/meVJnmd.png" alt="Footer Banner" width="800px">
-  ⭐ *“Automating today for a smarter tomorrow.”* 
+  <img src="https://imgur.com/meVJnmd.png" alt="Footer Banner" width="900px"/>
 </div>
-
