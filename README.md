@@ -1,8 +1,8 @@
 <!-- Profile Header -->
 <div align="center">
-  
-# 👨‍💻 **Ghanshyam Ramole**
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer+%7C+Cloud+%7C+Automation;Kubernetes+%7C+CI%2FCD+%7C+Terraform+%7C+AWS;Passionate+about+Building+Scalable+Systems)](https://git.io/typing-svg)
+
+# 👨‍💻 Ghanshyam Ramole  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=DevOps+Engineer+%7C+Cloud+%7C+Automation;Kubernetes+%7C+Terraform+%7C+AWS;Scaling+Infrastructure+%26+Automating+Everything)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-ghanshyam23.netlify.app-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://ghanshyam23.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-ghanshyam23-181717?style=for-the-badge&logo=github)](https://github.com/ghanshyam23)
@@ -17,21 +17,22 @@
 
 ## 🚀 About Me  
 
-- 🌩️ **Cloud & DevOps Engineer** – Automating infrastructure, CI/CD, and scaling apps.  
-- 🛠️ **Tech Explorer** – Love experimenting with Kubernetes, Terraform, Docker & Monitoring tools.  
-- 📚 **Content Creator** – Sharing blogs, code, and open-source projects.  
+- 🌩️ **Cloud & DevOps Engineer** – Building scalable infra & automating deployments.  
+- ⚙️ **CI/CD & Automation** – Jenkins, GitHub Actions, GitLab CI, Terraform, Ansible.  
+- 🛠️ **Obsessed with Reliability** – Kubernetes, Docker, Helm, Monitoring (Prometheus + Grafana).  
+- 📝 Sharing **blogs, code, and open-source projects** with the DevOps community.  
 - 🎯 Motto: *"Automating today for a smarter tomorrow."*  
 
 ---
 
-## 🔧 Tech Stack  
+## 🔧 Tech Arsenal  
 
 <div align="center">
 
 ### ☁️ Cloud & Platforms  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### ⚙️ DevOps & CI/CD  
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -84,16 +85,26 @@
 ## 📊 GitHub Analytics  
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghanshyam23&show_icons=true&theme=tokyonight&hide_border=true)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghanshyam23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyam23&layout=compact&theme=tokyonight&hide_border=true)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=ghanshyam23&theme=tokyonight&hide_border=true)  
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ghanshyam23&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7)
 
 </div>
 
 ---
 
-## 📝 Blogs & Writing  
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghanshyam23&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 📝 Blogs & Articles  
 
 <div align="center">
 
@@ -108,7 +119,7 @@
 
 <div align="center">
   
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/YOUR-HANDLE)  
+[![Buy Me a Coffee](https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/YOUR-HANDLE)  
 [![Ko-Fi](https://img.shields.io/badge/Ko--Fi-Donate-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/YOUR-HANDLE)
 
 </div>
