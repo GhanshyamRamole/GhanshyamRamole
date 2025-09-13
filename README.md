@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOURMAIL@example.com)
 
-<img src="" alt="DevOps Banner" width="900px"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQECJjUc4fMtxQ/profile-displaybackgroundimage-shrink_350_1400/B4DZfbB6SzH4AY-/0/1751726401456?e=1760572800&v=beta&t=f0O6VwpIRoaSqzsM8dPrFz8fvIN3VepmT0svaKC7mLk" alt="DevOps Banner" width="900px"/>
 
 </div>
 
@@ -86,11 +86,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghanshyam23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyam23&layout=compact&theme=tokyonight&hide_border=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=ghanshyam23&theme=tokyonight&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhanshyamRamole&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhanshyamRamole&layout=compact&theme=tokyonight&hide_border=true)  
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=GhanshyamRamole&theme=tokyonight&hide_border=true)  
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ghanshyam23&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=GhanshyamRamole&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7)
 
 </div>
 
@@ -99,30 +99,9 @@
 ## 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghanshyam23&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GhanshyamRamole&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="Contribution Graph"/>
 </p>
 
----
-
-## 📝 Blogs & Articles  
-
-<div align="center">
-
-[![DevOps Blogs](https://img.shields.io/badge/DevOps_Blogs-Read-00C2FF?style=for-the-badge&logo=hashnode)](https://ghanshyam23.netlify.app/blog)  
-[![Medium](https://img.shields.io/badge/Medium-Articles-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR-HANDLE)
-
-</div>
-
----
-
-## ☕ Support My Work  
-
-<div align="center">
-  
-[![Buy Me a Coffee](https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/YOUR-HANDLE)  
-[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-Donate-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/YOUR-HANDLE)
-
-</div>
 
 ---
 
