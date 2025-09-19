@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=DevOps+Engineer+%7C+Cloud+%7C+Automation;Kubernetes+%7C+Terraform+%7C+AWS;Scaling+Infrastructure+%26+Automating+Everything)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-ghanshyam23.netlify.app-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://ghanshyam23.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-ghanshyam23-181717?style=for-the-badge&logo=github)](https://github.com/GhanshyamRamole)
+[![GitHub](https://img.shields.io/badge/GitHub-GhanshyamRamole-181717?style=for-the-badge&logo=github)](https://github.com/GhanshyamRamole)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ghanshyamramole)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghanshyamramole999@gmail.com)
 
