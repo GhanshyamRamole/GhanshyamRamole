@@ -5,9 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=DevOps+Engineer+%7C+Cloud+%7C+Automation;Kubernetes+%7C+Terraform+%7C+AWS;Scaling+Infrastructure+%26+Automating+Everything)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-ghanshyam23.netlify.app-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://ghanshyam23.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-ghanshyam23-181717?style=for-the-badge&logo=github)](https://github.com/ghanshyam23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOURMAIL@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ghanshyam23-181717?style=for-the-badge&logo=github)](https://github.com/GhanshyamRamole)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ghanshyamramole)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghanshyamramole999@gmail.com)
 
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQECJjUc4fMtxQ/profile-displaybackgroundimage-shrink_350_1400/B4DZfbB6SzH4AY-/0/1751726401456?e=1760572800&v=beta&t=f0O6VwpIRoaSqzsM8dPrFz8fvIN3VepmT0svaKC7mLk" alt="DevOps Banner" width="900px"/>
 
