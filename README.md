@@ -106,5 +106,5 @@
 ---
 
 <div align="center">
-  <img src="" alt="Footer Banner" width="900px"/>
+  <img src="https://chatgpt.com/backend-api/estuary/content?id=file-8WCrmzoUAqzASWuRcwck4b&ts=488455&p=fs&cid=1&sig=d772bb5eeb92261637a051af96bd47d6f69c871ef13a7b2af3c5a5a3c4272d1a&v=0" alt="Footer Banner" width="900px"/>
 </div>
