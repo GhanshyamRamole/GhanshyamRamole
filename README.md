@@ -99,12 +99,12 @@
 ## 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://pattemdigital.com/production/wp-content/uploads/2024/07/banner-image-1-8-1024x411.webp" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GhanshyamRamole&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 
 ---
 
 <div align="center">
-  <img src="https://chatgpt.com/backend-api/estuary/content?id=file-8WCrmzoUAqzASWuRcwck4b&ts=488455&p=fs&cid=1&sig=d772bb5eeb92261637a051af96bd47d6f69c871ef13a7b2af3c5a5a3c4272d1a&v=0" alt="Footer Banner" width="900px"/>
+  <img src="https://pattemdigital.com/production/wp-content/uploads/2024/07/banner-image-1-8-1024x411.webp" alt="Footer Banner" width="900px"/>
 </div>
