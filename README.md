@@ -62,19 +62,19 @@
 <td width="50%">
 
 ### 🌟 Popular Projects  
-- [Internal DevOps Platform](https://github.com/ghanshyam23/internal-devops-platform)  
-- [EKS CI/CD Pipeline](https://github.com/ghanshyam23/eks-cicd-pipeline)  
-- [Terraform AWS Modules](https://github.com/ghanshyam23/terraform-aws-modules)  
-- [Distributed Systems Q&A](https://github.com/ghanshyam23/distributed-systems)  
+- [k8s-Hub-app ](https://github.com/GhanshyamRamole/k8s-Hub-app)  
+- [DevOps-Assignment](https://github.com/GhanshyamRamole/DevOps-Assignment)  
+- [PulseView-Monitoring-and-Observability](https://github.com/GhanshyamRamole/PulseView-Monitoring-and-Observability-)  
+- [Ansible-Project](https://github.com/GhanshyamRamole/Ansible-Project.git)  
 
 </td>
 <td width="50%">
 
 ### 🔧 Tools & Guides  
-- [DevOps Cheatsheet](https://github.com/ghanshyam23/devops-cheatsheet)  
-- [Kubernetes Hands-On](https://github.com/ghanshyam23/kubernetes-labs)  
-- [Monitoring Setup](https://github.com/ghanshyam23/monitoring-stack)  
-- [Automation Scripts](https://github.com/ghanshyam23/automation-scripts)  
+- [Ansible Cookbook](https://github.com/GhanshyamRamole/Ansible-cookbook)  
+- [Kubernetes Installation Scripts](https://github.com/GhanshyamRamole/k8s-Hub)  
+<!-- - [Monitoring Setup](https://github.com/ghanshyam23/monitoring-stack)  
+- [Automation Scripts](https://github.com/ghanshyam23/automation-scripts)  -->
 
 </td>
 </tr>
