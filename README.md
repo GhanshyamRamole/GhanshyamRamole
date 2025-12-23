@@ -9,8 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghanshyamramole999@gmail.com)
 
 <br/>
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQECJjUc4fMtxQ/profile-displaybackgroundimage-shrink_350_1400/B4DZfbB6SzH4AY-/0/1751726401456?e=1767830400&v=beta&t=SrymvcWq_qqktsymra4NBKbMT7GVpeEX0LUTAENfRo0" alt="DevOps Banner" width="100%" style="border-radius: 10px;"/>
-
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGLHgjrJPr_5Q/profile-displaybackgroundimage-shrink_350_1400/B56ZtAVo96IcAY-/0/1766310974441?e=1767830400&v=beta&t=AY0i7ysUyyoqvTeFsFlMWyIyjphhzx8M96S9Gevu9FI" alt="DevOps Banner" width="100%" style="border-radius: 10px;"/> 
 </div>
 
 ---
